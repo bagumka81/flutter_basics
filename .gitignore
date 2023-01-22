@@ -1,0 +1,8 @@
+# Files and directories created by IDE & pub
+.dart_tool/
+.packages
+.idea
+
+# Temp files created by drawio
+*.drawio.bkp
+*.drawio.dtmp
