@@ -32,7 +32,7 @@ dependencies:
   flutter:
     sdk: flutter
 
-  flutter_svg: ^1.1.0
+  flutter_svg: ^1.1.6
 
   carousel_slider:
     git: https://github.com/serenader2014/flutter_carousel_slider
